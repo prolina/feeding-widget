@@ -1,0 +1,22 @@
+body {
+  background: #fdfcf7;
+  font-family: 'Inter', sans-serif;
+  padding: 20px;
+}
+
+.meal-widget {
+  background: #885053;
+  border-radius: 15px;
+  padding: 20px;
+  max-width: 300px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.meal-widget h2 {
+  margin-top: 0;
+  color: #885053;
+}
+
+.meal-widget p {
+  margin: 5px 0;
+}
